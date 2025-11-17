@@ -1,0 +1,110 @@
+# Embraced OS - Proprietary License
+
+**AHD - Embraced AI • ©2025 AngelHeart Designs**
+
+---
+
+## Copyright Notice
+
+**All Rights Reserved**
+
+Copyright © 2025 Michael Shane Thigpen / AngelHeart Designs
+
+---
+
+## Terms
+
+This repository contains **documentation only** for the Embraced OS project.
+
+The documentation in this repository (README.md, ARCHITECTURE.md, DEMO.md, FOUNDER.md, and associated images) is provided for **informational purposes** to demonstrate the capabilities and architecture of Embraced OS.
+
+### What This Covers
+
+This license applies to:
+- Documentation files in this repository
+- Architecture diagrams and descriptions
+- Demo transcripts and sample outputs
+- Founder information and project vision
+
+### What This Does NOT Cover
+
+The **Embraced OS engine** and **source code** are **NOT included** in this repository and are **NOT covered** by this license.
+
+The Embraced OS implementation (including but not limited to: Python code, 14-layer EGAE stack, runtime engine, desktop GUI, CLI shell, and all proprietary components) remains the exclusive intellectual property of AngelHeart Designs.
+
+---
+
+## Permitted Use
+
+You MAY:
+- Read and reference this documentation
+- Share links to this repository
+- Discuss the architecture and concepts
+- Reference Embraced OS in research or educational contexts with proper attribution
+
+You MAY NOT:
+- Implement or recreate Embraced OS based on this documentation
+- Use the Embraced OS name, EGAE branding, or AHD trademarks without permission
+- Create derivative works based on the documented architecture
+- Claim ownership or attribution for Embraced OS concepts
+
+---
+
+## Attribution
+
+When referencing Embraced OS or the EGAE architecture, please attribute:
+
+**Embraced OS**  
+Created by Michael Shane Thigpen  
+AHD - Embraced AI  
+©2025 AngelHeart Designs
+
+---
+
+## Commercial Use
+
+All commercial use, licensing, or partnership arrangements require explicit written permission from Michael Shane Thigpen.
+
+For inquiries:
+- **Email**: michael.sthigpen@gmail.com
+- **Subject**: "Embraced OS - Commercial Inquiry"
+
+---
+
+## No Warranty
+
+This documentation is provided "as is" without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+In no event shall Michael Shane Thigpen or AngelHeart Designs be liable for any claim, damages, or other liability arising from the use of this documentation.
+
+---
+
+## Future Open Source
+
+AngelHeart Designs reserves the right to release portions of the Embraced OS codebase under an open-source license in the future. Such releases will be announced publicly and will be governed by the license specified at the time of release.
+
+This documentation repository may remain under this proprietary license even if code is later open-sourced.
+
+---
+
+## Modifications to License
+
+AngelHeart Designs reserves the right to modify this license at any time. Changes will be reflected in this file with an updated date stamp.
+
+**Last Updated**: November 17, 2025
+
+---
+
+## Contact
+
+For licensing inquiries, partnership opportunities, or questions about permitted use:
+
+**Michael Shane Thigpen**  
+AHD - Embraced AI  
+michael.sthigpen@gmail.com
+
+---
+
+**AHD - Embraced AI • ©2025 AngelHeart Designs**
+
+All Rights Reserved.
