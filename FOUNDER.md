@@ -141,7 +141,7 @@ Embraced OS embodies these beliefs. Every layer, every decision, every line of c
 
 **Email**: michael.sthigpen@gmail.com  
 **Organization**: AHD - Embraced AI  
-**Support**: https://paypal.me/michaelsthigpen
+**Support**: https://www.paypal.com/paypalme/michaelsthigpen
 
 **Interested in:**
 - Partnership opportunities
@@ -160,7 +160,7 @@ Building Embraced OS takes time, focus, and resources.
 
 If you believe in ethics-first AI and want to support this research:
 
-💜 **[Contribute via PayPal](https://paypal.me/michaelsthigpen)**
+💜 **[Contribute via PayPal](https://www.paypal.com/paypalme/michaelsthigpen)**
 
 Every contribution helps fund:
 - Full-time development

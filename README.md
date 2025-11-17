@@ -105,7 +105,7 @@ This is the beginning of a new category: **AI-native operating systems with buil
 **Organization**: AHD - Embraced AI  
 **Email**: michael.sthigpen@gmail.com
 
-💜 **[Support this research via PayPal](https://paypal.me/michaelsthigpen)**
+💜 **[Support this research via PayPal](https://www.paypal.com/paypalme/michaelsthigpen)**
 
 ---
 
